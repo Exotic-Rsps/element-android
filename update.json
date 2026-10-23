@@ -1,0 +1,8 @@
+{
+    "versionCode":  113,
+    "versionName":  "1.0.13",
+    "apkUrl":  "https://raw.githubusercontent.com/Exotic-Rsps/element-android/main/apk/Element-1.0.13.apk",
+    "sha256":  "ffc1626efb37b87900fd092e77671f5b9667a5abc618d13f15d08c260e47c5c3",
+    "mandatory":  false,
+    "notes":  "Element 1.0.13"
+}
