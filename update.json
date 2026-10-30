@@ -1,8 +1,8 @@
 {
-    "versionCode":  114,
-    "versionName":  "1.0.14",
-    "apkUrl":  "https://raw.githubusercontent.com/Exotic-Rsps/element-android/main/apk/Element-1.0.14.apk",
-    "sha256":  "833863c9e367a3f2f2645b2d87071fb9f48cd809bd4d79e4e396339b2f5f1246",
+    "versionCode":  115,
+    "versionName":  "1.0.15",
+    "apkUrl":  "https://raw.githubusercontent.com/Exotic-Rsps/element-android/main/apk/Element-1.0.15.apk",
+    "sha256":  "046eb590e067ffb7ddc265566b98e74b4e5cd5eb48892839bc1e446e27c7f415",
     "mandatory":  false,
-    "notes":  "Element 1.0.14"
+    "notes":  "Element 1.0.15"
 }
